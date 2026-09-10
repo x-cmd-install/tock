@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.4"
   latestRelease: "v2.0.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:25:56Z
+  collectedAt: 2026-09-10T15:51:04Z
 timeline:
   created: 2025-12-10
   lastCommit: 2026-08-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-02
   lastPrerelease: 
 popularity:
-  star: 476
+  star: 477
   watcher: 3
   fork: 21
   release: 55
@@ -44,7 +44,7 @@ recent:
     openPR: 3
     closedIssue: 1
     openIssue: 0
-    commit: 8
+    commit: 0
   last90d:
     since: 2026-06-12
     release: 4
@@ -52,7 +52,7 @@ recent:
     openPR: 3
     closedIssue: 1
     openIssue: 0
-    commit: 9
+    commit: 0
   last180d:
     since: 2026-03-14
     release: 19
@@ -60,7 +60,7 @@ recent:
     openPR: 3
     closedIssue: 8
     openIssue: 2
-    commit: 31
+    commit: 0
   last360d:
     since: 2025-09-15
     release: 55
@@ -68,7 +68,7 @@ recent:
     openPR: 3
     closedIssue: 31
     openIssue: 2
-    commit: 99
+    commit: 0
   last720d:
     since: 2024-09-20
     release: 55
@@ -86,7 +86,7 @@ total:
   commit: 99
 ---
 path: /home/runner/.x-repo/github.com/kriuchkov/tock
-collectedAt: 2026-09-10T04:25:56Z
+collectedAt: 2026-09-10T15:51:07Z
 loc:
   Go:
     code: 14912
