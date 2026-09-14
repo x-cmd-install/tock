@@ -47,12 +47,12 @@ Total: **15,411** lines of code across **122** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 4 | 5 | 2 | 1 | 0 | 5 |
-| 90d | 2026-06-15 | 4 | 9 | 3 | 1 | 0 | 9 |
-| last180d | 2026-03-17 | 16 | 26 | 3 | 8 | 2 | 25 |
-| 360d | 2025-09-18 | 55 | 67 | 3 | 31 | 2 | 99 |
-| last720d | 2024-09-23 | 55 | 67 | 3 | 31 | 2 | 99 |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 5 | 2 | 1 | 0 | 5 |
+| 90d | 2026-06-16 | 4 | 9 | 3 | 1 | 0 | 9 |
+| last180d | 2026-03-18 | 16 | 25 | 3 | 8 | 2 | 25 |
+| 360d | 2025-09-19 | 55 | 67 | 3 | 31 | 2 | 99 |
+| last720d | 2024-09-24 | 55 | 67 | 3 | 31 | 2 | 99 |
 
 ## Release assets
 
@@ -64,14 +64,6 @@ Total: **15,411** lines of code across **122** files in the top 5 languages.
 | [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
 | [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/tock). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.0.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tock` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +73,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:37:26Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:43:17Z._
