@@ -31,38 +31,38 @@ x install tock
 
 ## 发布
 
-- **最新版本**: `v2.0.4` (2026-08-02)
-- **最近提交**: 2026-08-02
+- **最新版本**: `v2.0.5` (2026-09-30)
+- **最近提交**: 2026-09-30
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 487 · **Fork**: 22 · **开放 issue**: 33 · **贡献者**: 7
+- **Star**: 490 · **Fork**: 22 · **开放 issue**: 33 · **贡献者**: 7
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 67 · **开放 PR**: 5 · **已关闭 issue**: 31 · **开放 issue**: 2 · **提交数**: 99
+- **发布数**: 56 · **已合并 PR**: 69 · **开放 PR**: 3 · **已关闭 issue**: 32 · **开放 issue**: 1 · **提交数**: 101
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 1 | 1 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 4 | 8 | 5 | 1 | 0 | 8 |
-| last180d | 2026-04-03 | 13 | 21 | 5 | 8 | 1 | 18 |
-| 360d | 2025-10-05 | 55 | 67 | 5 | 31 | 2 | 99 |
-| last720d | 2024-10-10 | 55 | 67 | 5 | 31 | 2 | 99 |
+| 30d | 2026-09-01 | 1 | 0 | 2 | 0 | 0 | 2 |
+| last60d | 2026-08-02 | 2 | 1 | 3 | 0 | 0 | 2 |
+| 90d | 2026-07-03 | 5 | 10 | 3 | 1 | 0 | 10 |
+| last180d | 2026-04-04 | 14 | 23 | 3 | 8 | 1 | 20 |
+| 360d | 2025-10-06 | 56 | 69 | 3 | 32 | 1 | 101 |
+| last720d | 2024-10-11 | 56 | 69 | 3 | 32 | 1 | 101 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.4/checksums.txt) | 364 B | `other` |
-| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.5/checksums.txt) | 364 B | `other` |
+| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Darwin_arm64.tar.gz) | 5.4 MiB | `native/darwin/arm64` |
+| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ tock 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:22:47Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:37:47Z._

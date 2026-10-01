@@ -31,38 +31,38 @@ Total: **15,411** lines of code across **122** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.4` (2026-08-02)
-- **Last commit**: 2026-08-02
+- **Latest**: `v2.0.5` (2026-09-30)
+- **Last commit**: 2026-09-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 487 · **Forks**: 22 · **Open issues**: 33 · **Contributors**: 7
+- **Stars**: 490 · **Forks**: 22 · **Open issues**: 33 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 67 · **Open PRs**: 5 · **Closed issues**: 31 · **Open issues**: 2 · **Commits**: 99
+- **Releases**: 56 · **Merged PRs**: 69 · **Open PRs**: 3 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 101
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 1 | 1 | 4 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 4 | 8 | 5 | 1 | 0 | 8 |
-| last180d | 2026-04-03 | 13 | 21 | 5 | 8 | 1 | 18 |
-| 360d | 2025-10-05 | 55 | 67 | 5 | 31 | 2 | 99 |
-| last720d | 2024-10-10 | 55 | 67 | 5 | 31 | 2 | 99 |
+| 30d | 2026-09-01 | 1 | 0 | 2 | 0 | 0 | 2 |
+| last60d | 2026-08-02 | 2 | 1 | 3 | 0 | 0 | 2 |
+| 90d | 2026-07-03 | 5 | 10 | 3 | 1 | 0 | 10 |
+| last180d | 2026-04-04 | 14 | 23 | 3 | 8 | 1 | 20 |
+| 360d | 2025-10-06 | 56 | 69 | 3 | 32 | 1 | 101 |
+| last720d | 2024-10-11 | 56 | 69 | 3 | 32 | 1 | 101 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.4/checksums.txt) | 364 B | `other` |
-| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.4/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.5/checksums.txt) | 364 B | `other` |
+| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Darwin_arm64.tar.gz) | 5.4 MiB | `native/darwin/arm64` |
+| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.5/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:22:47Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:37:46Z._
