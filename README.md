@@ -14,12 +14,12 @@ x install tock
 
 ## Code insight
 
-Total: **16,580** lines of code across **128** files in the top 5 languages.
+Total: **18,489** lines of code across **133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 16,063 | 674 | 2,727 | 123 |
-| Json | 249 | 0 | 0 | 1 |
+| Go | 17,939 | 748 | 3,078 | 128 |
+| Json | 282 | 0 | 0 | 1 |
 | Sh | 171 | 36 | 36 | 2 |
 | Python | 62 | 4 | 15 | 1 |
 | Makefile | 19 | 2 | 4 | 1 |
@@ -31,38 +31,38 @@ Total: **16,580** lines of code across **128** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.7` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Latest**: `v2.0.8` (2026-10-23)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 496 · **Forks**: 22 · **Open issues**: 33 · **Contributors**: 9
+- **Stars**: 497 · **Forks**: 22 · **Open issues**: 33 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 74 · **Open PRs**: 1 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 106
+- **Releases**: 59 · **Merged PRs**: 76 · **Open PRs**: 0 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 3 | 4 | 1 | 0 | 0 | 7 |
-| last60d | 2026-08-24 | 3 | 5 | 1 | 0 | 0 | 7 |
-| 90d | 2026-07-25 | 5 | 9 | 1 | 1 | 0 | 12 |
-| last180d | 2026-04-26 | 11 | 20 | 1 | 3 | 1 | 21 |
-| 360d | 2025-10-28 | 58 | 74 | 1 | 32 | 1 | 106 |
-| last720d | 2024-11-02 | 58 | 74 | 1 | 32 | 1 | 106 |
+| 30d | 2026-09-24 | 4 | 6 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-25 | 4 | 7 | 0 | 0 | 0 | 9 |
+| 90d | 2026-07-26 | 6 | 11 | 0 | 1 | 0 | 14 |
+| last180d | 2026-04-27 | 12 | 22 | 0 | 3 | 1 | 23 |
+| 360d | 2025-10-29 | 59 | 76 | 0 | 32 | 1 | 108 |
+| last720d | 2024-11-03 | 59 | 76 | 0 | 32 | 1 | 108 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.7/checksums.txt) | 364 B | `other` |
-| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.7/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.7/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.7/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.7/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.8/checksums.txt) | 364 B | `other` |
+| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **3** distros on [repology.org](https://repology.org/project/tock). 
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.0.7` | ✅ latest |
+| Homebrew | `2.0.8` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:33:09Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:23:42Z._
