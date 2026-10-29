@@ -27,9 +27,9 @@
 - repo: nix_unstable
   srcname: tock
   visiblename: tock
-  version: 2.0.4
+  version: 2.0.8
   origversion: null
-  status: outdated
+  status: newest
   summary: Time tracking tool for the command line
   maintainers:
     - ricardomapurungajunior@gmail.com
