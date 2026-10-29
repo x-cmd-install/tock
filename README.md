@@ -47,12 +47,12 @@ Total: **18,489** lines of code across **133** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 4 | 6 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-29 | 4 | 6 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-30 | 6 | 9 | 0 | 0 | 0 | 9 |
-| last180d | 2026-05-01 | 11 | 20 | 0 | 1 | 1 | 21 |
-| 360d | 2025-11-02 | 59 | 76 | 0 | 32 | 1 | 108 |
-| last720d | 2024-11-07 | 59 | 76 | 0 | 32 | 1 | 108 |
+| 30d | 2026-09-29 | 4 | 4 | 0 | 0 | 0 | 7 |
+| last60d | 2026-08-30 | 4 | 6 | 0 | 0 | 0 | 9 |
+| 90d | 2026-07-31 | 5 | 9 | 0 | 0 | 0 | 9 |
+| last180d | 2026-05-02 | 10 | 20 | 0 | 1 | 1 | 21 |
+| 360d | 2025-11-03 | 59 | 76 | 0 | 32 | 1 | 108 |
+| last720d | 2024-11-08 | 59 | 76 | 0 | 32 | 1 | 108 |
 
 ## Release assets
 
@@ -66,12 +66,12 @@ Total: **18,489** lines of code across **133** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/tock). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/tock). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.0.8` | ✅ latest |
-| Nix unstable | `2.0.4` | ⚠️ outdated |
+| Nix unstable | `2.0.8` | ✅ latest |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:24:10Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:34:16Z._
