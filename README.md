@@ -14,11 +14,11 @@ x install tock
 
 ## Code insight
 
-Total: **18,489** lines of code across **133** files in the top 5 languages.
+Total: **18,762** lines of code across **133** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 17,939 | 748 | 3,078 | 128 |
+| Go | 18,212 | 773 | 3,116 | 128 |
 | Json | 282 | 0 | 0 | 1 |
 | Sh | 171 | 36 | 36 | 2 |
 | Python | 62 | 4 | 15 | 1 |
@@ -31,47 +31,47 @@ Total: **18,489** lines of code across **133** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.8` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Latest**: `v2.0.9` (2026-11-10)
+- **Last commit**: 2026-11-10
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 505 · **Forks**: 23 · **Open issues**: 33 · **Contributors**: 9
+- **Stars**: 506 · **Forks**: 23 · **Open issues**: 35 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 76 · **Open PRs**: 1 · **Closed issues**: 32 · **Open issues**: 1 · **Commits**: 108
+- **Releases**: 60 · **Merged PRs**: 78 · **Open PRs**: 2 · **Closed issues**: 34 · **Open issues**: 1 · **Commits**: 110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-11 | 4 | 6 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-12 | 4 | 8 | 1 | 0 | 0 | 9 |
-| last180d | 2026-05-14 | 10 | 19 | 1 | 1 | 0 | 18 |
-| 360d | 2025-11-15 | 59 | 76 | 1 | 32 | 1 | 108 |
-| last720d | 2024-11-20 | 59 | 76 | 1 | 32 | 1 | 108 |
+| 30d | 2026-10-12 | 2 | 3 | 2 | 2 | 0 | 4 |
+| last60d | 2026-09-12 | 5 | 8 | 2 | 2 | 0 | 11 |
+| 90d | 2026-08-13 | 5 | 10 | 2 | 2 | 0 | 11 |
+| last180d | 2026-05-15 | 11 | 21 | 2 | 3 | 0 | 20 |
+| 360d | 2025-11-16 | 60 | 78 | 2 | 34 | 1 | 110 |
+| last720d | 2024-11-21 | 60 | 78 | 2 | 34 | 1 | 110 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.8/checksums.txt) | 364 B | `other` |
-| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.9/checksums.txt) | 364 B | `other` |
+| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/tock). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/tock). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.0.8` | ✅ latest |
-| Nix unstable | `2.0.8` | ✅ latest |
+| Homebrew | `2.0.9` | ✅ latest |
+| Nix unstable | `2.0.8` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:03:59Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:56:03Z._

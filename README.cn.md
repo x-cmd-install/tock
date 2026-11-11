@@ -14,11 +14,11 @@ x install tock
 
 ## 代码洞察
 
-合计: **18,489** 行代码（覆盖前 5 种语言、共 **133** 个文件）。
+合计: **18,762** 行代码（覆盖前 5 种语言、共 **133** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 17,939 | 748 | 3,078 | 128 |
+| Go | 18,212 | 773 | 3,116 | 128 |
 | Json | 282 | 0 | 0 | 1 |
 | Sh | 171 | 36 | 36 | 2 |
 | Python | 62 | 4 | 15 | 1 |
@@ -31,47 +31,47 @@ x install tock
 
 ## 发布
 
-- **最新版本**: `v2.0.8` (2026-10-23)
-- **最近提交**: 2026-10-23
+- **最新版本**: `v2.0.9` (2026-11-10)
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 505 · **Fork**: 23 · **开放 issue**: 33 · **贡献者**: 9
+- **Star**: 506 · **Fork**: 23 · **开放 issue**: 35 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 59 · **已合并 PR**: 76 · **开放 PR**: 1 · **已关闭 issue**: 32 · **开放 issue**: 1 · **提交数**: 108
+- **发布数**: 60 · **已合并 PR**: 78 · **开放 PR**: 2 · **已关闭 issue**: 34 · **开放 issue**: 1 · **提交数**: 110
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-11 | 4 | 6 | 1 | 0 | 0 | 9 |
-| 90d | 2026-08-12 | 4 | 8 | 1 | 0 | 0 | 9 |
-| last180d | 2026-05-14 | 10 | 19 | 1 | 1 | 0 | 18 |
-| 360d | 2025-11-15 | 59 | 76 | 1 | 32 | 1 | 108 |
-| last720d | 2024-11-20 | 59 | 76 | 1 | 32 | 1 | 108 |
+| 30d | 2026-10-12 | 2 | 3 | 2 | 2 | 0 | 4 |
+| last60d | 2026-09-12 | 5 | 8 | 2 | 2 | 0 | 11 |
+| 90d | 2026-08-13 | 5 | 10 | 2 | 2 | 0 | 11 |
+| last180d | 2026-05-15 | 11 | 21 | 2 | 3 | 0 | 20 |
+| 360d | 2025-11-16 | 60 | 78 | 2 | 34 | 1 | 110 |
+| last720d | 2024-11-21 | 60 | 78 | 2 | 34 | 1 | 110 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.8/checksums.txt) | 364 B | `other` |
-| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
-| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
-| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.8/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
+| [checksums.txt](https://github.com/kriuchkov/tock/releases/download/v2.0.9/checksums.txt) | 364 B | `other` |
+| [tock_Darwin_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Darwin_arm64.tar.gz) | 5.5 MiB | `native/darwin/arm64` |
+| [tock_Darwin_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Darwin_x86_64.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [tock_Linux_arm64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Linux_arm64.tar.gz) | 4.5 MiB | `native/linux/arm64` |
+| [tock_Linux_x86_64.tar.gz](https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Linux_x86_64.tar.gz) | 5.0 MiB | `native/linux/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/tock) 上共有 **4** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/tock) 上共有 **4** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `2.0.8` | ✅ latest |
-| Nix unstable | `2.0.8` | ✅ latest |
+| Homebrew | `2.0.9` | ✅ latest |
+| Nix unstable | `2.0.8` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ tock 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:04:00Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T05:56:04Z._
