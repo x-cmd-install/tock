@@ -2,8 +2,8 @@
   srcname: tock-bin
   binname: tock-bin
   visiblename: tock-bin
-  version: 2.0.8
-  origversion: 2.0.8-1
+  version: 2.0.9
+  origversion: 2.0.9-1
   status: newest
   summary: A powerful time tracking tool for the command line
   maintainers:
@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: tock
   visiblename: tock
-  version: 2.0.8
+  version: 2.0.9
   origversion: null
   status: newest
   summary: Powerful time tracking tool for the command-line
@@ -29,7 +29,7 @@
   visiblename: tock
   version: 2.0.8
   origversion: null
-  status: newest
+  status: outdated
   summary: Time tracking tool for the command line
   maintainers:
     - ricardomapurungajunior@gmail.com
