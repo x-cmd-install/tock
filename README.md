@@ -37,22 +37,22 @@ Total: **18,762** lines of code across **133** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 506 · **Forks**: 23 · **Open issues**: 35 · **Contributors**: 10
+- **Stars**: 507 · **Forks**: 24 · **Open issues**: 35 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 80 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 1 · **Commits**: 112
+- **Releases**: 60 · **Merged PRs**: 80 · **Open PRs**: 1 · **Closed issues**: 34 · **Open issues**: 1 · **Commits**: 112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 5 | 0 | 2 | 0 | 6 |
-| last60d | 2026-09-13 | 5 | 10 | 0 | 2 | 0 | 13 |
-| 90d | 2026-08-14 | 5 | 12 | 0 | 2 | 0 | 13 |
-| last180d | 2026-05-16 | 11 | 23 | 0 | 3 | 0 | 22 |
-| 360d | 2025-11-17 | 60 | 80 | 0 | 34 | 1 | 112 |
-| last720d | 2024-11-22 | 60 | 80 | 0 | 34 | 1 | 112 |
+| 30d | 2026-10-14 | 2 | 5 | 1 | 2 | 0 | 6 |
+| last60d | 2026-09-14 | 5 | 10 | 1 | 2 | 0 | 13 |
+| 90d | 2026-08-15 | 5 | 12 | 1 | 2 | 0 | 13 |
+| last180d | 2026-05-17 | 11 | 22 | 1 | 3 | 0 | 22 |
+| 360d | 2025-11-18 | 60 | 80 | 1 | 34 | 1 | 112 |
+| last720d | 2024-11-23 | 60 | 80 | 1 | 34 | 1 | 112 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:14Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:24:42Z._
