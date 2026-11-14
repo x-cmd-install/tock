@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 364,
       "digest": "sha256:48e155b7cc50dc4850beb60e97db411b27e7997638735a8995b47074c8d6441e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-10T18:24:34Z",
       "updated_at": "2026-11-10T18:24:34Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.0.9/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5749859,
       "digest": "sha256:8f44f943e82ed6889d183058a512c9831fe3d428b88c3f5e11182c2d602344b1",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-10T18:24:32Z",
       "updated_at": "2026-11-10T18:24:33Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6215632,
       "digest": "sha256:05eb3da3ba9c8c03ee41e310d5bacdb3c993a8e2280518500250b2a482aca593",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-10T18:24:34Z",
       "updated_at": "2026-11-10T18:24:35Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4748221,
       "digest": "sha256:025af316a8b78a60c2c59d4d59784fc658d1611f22177e8066ae3daaa3451d3a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-10T18:24:32Z",
       "updated_at": "2026-11-10T18:24:33Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5256961,
       "digest": "sha256:d3e8d62675a73f84b2d77a5b795a995ca6387e8ea0e7c07d6d7bfdd09bd16d00",
-      "download_count": 20,
+      "download_count": 25,
       "created_at": "2026-11-10T18:24:32Z",
       "updated_at": "2026-11-10T18:24:33Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.0.9/tock_Linux_x86_64.tar.gz"
