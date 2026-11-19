@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kriuchkov/tock/releases/447583597",
-  "assets_url": "https://api.github.com/repos/kriuchkov/tock/releases/447583597/assets",
-  "upload_url": "https://uploads.github.com/repos/kriuchkov/tock/releases/447583597/assets{?name,label}",
-  "html_url": "https://github.com/kriuchkov/tock/releases/tag/v2.1.0",
-  "id": 447583597,
+  "url": "https://api.github.com/repos/kriuchkov/tock/releases/450424946",
+  "assets_url": "https://api.github.com/repos/kriuchkov/tock/releases/450424946/assets",
+  "upload_url": "https://uploads.github.com/repos/kriuchkov/tock/releases/450424946/assets{?name,label}",
+  "html_url": "https://github.com/kriuchkov/tock/releases/tag/v2.3.0",
+  "id": 450424946,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQmJt684arZVt",
-  "tag_name": "v2.1.0",
+  "node_id": "RE_kwDOQmJt684a2PBy",
+  "tag_name": "v2.3.0",
   "target_commitish": "master",
-  "name": "v2.1.0",
+  "name": "v2.3.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-16T20:34:19Z",
-  "updated_at": "2026-11-16T20:37:47Z",
-  "published_at": "2026-11-16T20:37:47Z",
+  "created_at": "2026-11-18T18:54:51Z",
+  "updated_at": "2026-11-18T18:59:35Z",
+  "published_at": "2026-11-18T18:59:35Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/756362632",
-      "id": 756362632,
-      "node_id": "RA_kwDOQmJt684tFS2I",
+      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/764603647",
+      "id": 764603647,
+      "node_id": "RA_kwDOQmJt684tkuz_",
       "name": "checksums.txt",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 364,
-      "digest": "sha256:91d089ddfe935cc447b57968f39337ea13277a3ed1d8402d75f2727240d00e30",
-      "download_count": 3,
-      "created_at": "2026-11-16T20:37:46Z",
-      "updated_at": "2026-11-16T20:37:46Z",
-      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.1.0/checksums.txt"
+      "digest": "sha256:c0e294a61d22fb46f5f13916b040af807bee9f74d38d4af188226c06509cc1eb",
+      "download_count": 2,
+      "created_at": "2026-11-18T18:59:33Z",
+      "updated_at": "2026-11-18T18:59:33Z",
+      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/checksums.txt"
     },
     {
-      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/756362568",
-      "id": 756362568,
-      "node_id": "RA_kwDOQmJt684tFS1I",
+      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/764603644",
+      "id": 764603644,
+      "node_id": "RA_kwDOQmJt684tkuz8",
       "name": "tock_Darwin_arm64.tar.gz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 5943966,
-      "digest": "sha256:52da59074905f30e8d94a72b9deea195a5eae8e372d3f00234b4b486d79a04c9",
-      "download_count": 6,
-      "created_at": "2026-11-16T20:37:44Z",
-      "updated_at": "2026-11-16T20:37:45Z",
-      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.1.0/tock_Darwin_arm64.tar.gz"
+      "size": 6672636,
+      "digest": "sha256:c5ba7c3a0b3200252c4bad58f46bff97f813237b644655a2830c45e0e881f54c",
+      "download_count": 3,
+      "created_at": "2026-11-18T18:59:33Z",
+      "updated_at": "2026-11-18T18:59:34Z",
+      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Darwin_arm64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/756362572",
-      "id": 756362572,
-      "node_id": "RA_kwDOQmJt684tFS1M",
+      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/764603580",
+      "id": 764603580,
+      "node_id": "RA_kwDOQmJt684tkuy8",
       "name": "tock_Darwin_x86_64.tar.gz",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 6423965,
-      "digest": "sha256:7f7b8e1eed4110d18d88c965bcc0f08d6a072fb7ee27c40e085fd94a14e8e5c0",
-      "download_count": 3,
-      "created_at": "2026-11-16T20:37:44Z",
-      "updated_at": "2026-11-16T20:37:45Z",
-      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.1.0/tock_Darwin_x86_64.tar.gz"
+      "size": 7205908,
+      "digest": "sha256:ba538e69192d100c5adf4fe9c5d44b4f3771002d9553cc2cf74de1310f6c2678",
+      "download_count": 2,
+      "created_at": "2026-11-18T18:59:32Z",
+      "updated_at": "2026-11-18T18:59:32Z",
+      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Darwin_x86_64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/756362573",
-      "id": 756362573,
-      "node_id": "RA_kwDOQmJt684tFS1N",
+      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/764603581",
+      "id": 764603581,
+      "node_id": "RA_kwDOQmJt684tkuy9",
       "name": "tock_Linux_arm64.tar.gz",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 4930955,
-      "digest": "sha256:67c6cda41712a9d3c1f72df7f7ef4fb3879427f9dc76fb22647ff34bb6416ee1",
-      "download_count": 6,
-      "created_at": "2026-11-16T20:37:44Z",
-      "updated_at": "2026-11-16T20:37:45Z",
-      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.1.0/tock_Linux_arm64.tar.gz"
+      "size": 5640855,
+      "digest": "sha256:6b6798da15e7fa27b4920a974681f43125ba578980d8f6e0fc63e2e12bdcf92f",
+      "download_count": 5,
+      "created_at": "2026-11-18T18:59:32Z",
+      "updated_at": "2026-11-18T18:59:32Z",
+      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Linux_arm64.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/756362625",
-      "id": 756362625,
-      "node_id": "RA_kwDOQmJt684tFS2B",
+      "url": "https://api.github.com/repos/kriuchkov/tock/releases/assets/764603578",
+      "id": 764603578,
+      "node_id": "RA_kwDOQmJt684tkuy6",
       "name": "tock_Linux_x86_64.tar.gz",
       "label": "",
       "uploader": {
@@ -209,15 +209,15 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 5453071,
-      "digest": "sha256:49d16be097cd12df19c1a374263bc0e798e6c4b340ba64c3f20ada90b3b2a168",
-      "download_count": 11,
-      "created_at": "2026-11-16T20:37:46Z",
-      "updated_at": "2026-11-16T20:37:46Z",
-      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.1.0/tock_Linux_x86_64.tar.gz"
+      "size": 6233096,
+      "digest": "sha256:5fe5762a8aa27eb39f827f15a8c803ef258cdfaad3c0f42a92032ad2e52ec11e",
+      "download_count": 6,
+      "created_at": "2026-11-18T18:59:32Z",
+      "updated_at": "2026-11-18T18:59:32Z",
+      "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Linux_x86_64.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/kriuchkov/tock/tarball/v2.1.0",
-  "zipball_url": "https://api.github.com/repos/kriuchkov/tock/zipball/v2.1.0",
-  "body": "## Changelog\n* 7a863e5d7f632bd1fd45eac382980075663658b1 build(deps): bump github.com/doug-martin/goqu/v9 from 9.19.0 to 9.25.0 (#118)\n* a09aae15c6dd7b35669bd211a8f409fb315c07da build(deps): bump github.com/spf13/pflag from 1.0.10 to 1.1.0 (#117)\n* 57a58d38c2e99946a787ed763e3c60ccb2225ae1 feat(remind): add reminders with repeats (#120)\n\n"
+  "tarball_url": "https://api.github.com/repos/kriuchkov/tock/tarball/v2.3.0",
+  "zipball_url": "https://api.github.com/repos/kriuchkov/tock/zipball/v2.3.0",
+  "body": "## Changelog\n* 5c0678bec65243c966bc965ce34d14bc6df08db7 docs(readme): link the demo to kriuchkov.com/tock (#125)\n* 2054804603ca9246b1fcb56bf3f33fcf93c8f5e8 docs(readme): open with an animated SVG of the TUI (#123)\n* 86d3e1abe988595c0abb7f1a993f4f209940d780 feat(mcp): add a local MCP server (#124)\n\n"
 }
