@@ -48,12 +48,12 @@ Total: **42,345** lines of code across **213** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 5 | 14 | 0 | 2 | 0 | 15 |
-| last60d | 2026-09-20 | 8 | 19 | 0 | 2 | 0 | 22 |
-| 90d | 2026-08-21 | 8 | 21 | 0 | 2 | 0 | 22 |
-| last180d | 2026-05-23 | 12 | 31 | 0 | 3 | 0 | 31 |
-| 360d | 2025-11-24 | 63 | 89 | 0 | 34 | 1 | 121 |
-| last720d | 2024-11-29 | 63 | 89 | 0 | 34 | 1 | 121 |
+| 30d | 2026-10-21 | 5 | 14 | 0 | 2 | 0 | 15 |
+| last60d | 2026-09-21 | 8 | 19 | 0 | 2 | 0 | 22 |
+| 90d | 2026-08-22 | 8 | 20 | 0 | 2 | 0 | 22 |
+| last180d | 2026-05-24 | 12 | 31 | 0 | 3 | 0 | 31 |
+| 360d | 2025-11-25 | 63 | 89 | 0 | 34 | 1 | 121 |
+| last720d | 2024-11-30 | 63 | 89 | 0 | 34 | 1 | 121 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/tock). 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.3.0` | ✅ latest |
-| Nix unstable | `2.0.8` | ⚠️ outdated |
+| Nix unstable | `2.1.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:09:49Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:00:40Z._
