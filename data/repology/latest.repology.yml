@@ -1,14 +1,3 @@
-- repo: nix_unstable
-  srcname: tock
-  visiblename: tock
-  version: 2.0.8
-  origversion: null
-  status: outdated
-  summary: Time tracking tool for the command line
-  maintainers:
-    - ricardomapurungajunior@gmail.com
-  licenses:
-    - GPL-3.0-only
 - repo: aur
   srcname: tock-bin
   binname: tock-bin
@@ -35,3 +24,14 @@
   origversion: null
   status: rolling
   summary: Powerful time tracking tool for the command-line
+- repo: nix_unstable
+  srcname: tock
+  visiblename: tock
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: Time tracking tool for the command line
+  maintainers:
+    - ricardomapurungajunior@gmail.com
+  licenses:
+    - GPL-3.0-only
