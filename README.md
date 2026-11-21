@@ -48,12 +48,12 @@ Total: **42,345** lines of code across **213** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 5 | 14 | 0 | 2 | 0 | 15 |
-| last60d | 2026-09-21 | 8 | 19 | 0 | 2 | 0 | 22 |
-| 90d | 2026-08-22 | 8 | 20 | 0 | 2 | 0 | 22 |
-| last180d | 2026-05-24 | 12 | 31 | 0 | 3 | 0 | 31 |
-| 360d | 2025-11-25 | 63 | 89 | 0 | 34 | 1 | 121 |
-| last720d | 2024-11-30 | 63 | 89 | 0 | 34 | 1 | 121 |
+| 30d | 2026-10-22 | 5 | 14 | 0 | 2 | 0 | 15 |
+| last60d | 2026-09-22 | 8 | 19 | 0 | 2 | 0 | 22 |
+| 90d | 2026-08-23 | 8 | 20 | 0 | 2 | 0 | 22 |
+| last180d | 2026-05-25 | 12 | 31 | 0 | 3 | 0 | 31 |
+| 360d | 2025-11-26 | 63 | 89 | 0 | 34 | 1 | 121 |
+| last720d | 2024-12-01 | 63 | 89 | 0 | 34 | 1 | 121 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for tock lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:00:40Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:56:08Z._
