@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6672636,
       "digest": "sha256:c5ba7c3a0b3200252c4bad58f46bff97f813237b644655a2830c45e0e881f54c",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-11-18T18:59:33Z",
       "updated_at": "2026-11-18T18:59:34Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7205908,
       "digest": "sha256:ba538e69192d100c5adf4fe9c5d44b4f3771002d9553cc2cf74de1310f6c2678",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-18T18:59:32Z",
       "updated_at": "2026-11-18T18:59:32Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5640855,
       "digest": "sha256:6b6798da15e7fa27b4920a974681f43125ba578980d8f6e0fc63e2e12bdcf92f",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-18T18:59:32Z",
       "updated_at": "2026-11-18T18:59:32Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6233096,
       "digest": "sha256:5fe5762a8aa27eb39f827f15a8c803ef258cdfaad3c0f42a92032ad2e52ec11e",
-      "download_count": 31,
+      "download_count": 43,
       "created_at": "2026-11-18T18:59:32Z",
       "updated_at": "2026-11-18T18:59:32Z",
       "browser_download_url": "https://github.com/kriuchkov/tock/releases/download/v2.3.0/tock_Linux_x86_64.tar.gz"
